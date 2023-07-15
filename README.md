@@ -22,7 +22,7 @@ View are classic activities
 - `Adapter`
   
 #### Presenter
-ViewModels contain the logic of their screens
+Presenters contain the logic of their screens
  - `LoginPresenter`
  - `SignUpPresenter`
  - `MainPresenter`

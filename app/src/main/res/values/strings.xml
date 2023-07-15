@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LerWord-MVP</string>
+    <string name="title">LearnWords</string>
+    <string name="signin">Авторизируйтесь</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="haveacc">У вас уже есть аккаунт?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="_4_167">0/64</string>
+    <string name="new_string">Новое слово</string>
+    <string name="profession">Профессия</string>
+    <string name="signup">Зарегестрируйтесь</string>
+    <string name="nohaveacc">У вас еще нет аккаунта?</string>
+</resources>
